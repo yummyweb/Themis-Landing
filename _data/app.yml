@@ -1,5 +1,5 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
+name: Themis 
+description: Get news not views
 full_description: 'A more complete description of the mobile app<br>
 <br>With a lot of features:
 <br>- Feature 1
@@ -15,7 +15,5 @@ screenshots:
   - 4.png
 producthunt: https://telegra.ph/Replace-this-link-07-23
 companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
   - url: https://telegra.ph/Replace-this-link-07-23
     image: producthunt.png
